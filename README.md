@@ -1,1 +1,2 @@
-# Design-of-voltage-comparator-circuit-in-90-nm-cmos-technology
+# Design of voltage comparator circuit in 90 nm cmos technology
+#______________________________________________________________
