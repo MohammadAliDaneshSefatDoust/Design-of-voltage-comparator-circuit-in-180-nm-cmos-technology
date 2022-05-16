@@ -3,9 +3,13 @@ ________________________________________________________________
 Specifications of the designed circuit:
 ________________________________________________________________
 Minimum input resolution: 2 mV
+_______
 Maximum input offset voltage: 60 mV
+_______
 Comparison time: less than two nanoseconds
+_______
 Common input voltage: 2 mV
+_______
 Power supply voltage: 1 volt
 _________________________________________________________________
 Circuit shape:
